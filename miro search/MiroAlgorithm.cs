@@ -103,6 +103,12 @@ public class MiroAlgorithm : MonoBehaviour
             directionSet();
             StartCoroutine(forward());
         }
+        else
+        {
+            direction = (dir)(((int)direction + 2) % 4);
+            directionSet();
+            StartCoroutine(forward());
+        }
     }
 
     IEnumerator forward() // 오브젝트 이동
