@@ -1,0 +1,6 @@
+﻿{
+    "skill_name": "Storm",
+    "skill_manual": "태풍을 일으켜 모든 적들에게 공격력의 2배 피해를 줍니다.",
+    "skill_cooltime": 10.0,
+    "skill_image": 3
+}

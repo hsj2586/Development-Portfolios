@@ -1,0 +1,8 @@
+{
+    "items": [
+        "Gold",
+        "Rare",
+        "Unique",
+        "Legend"
+    ]
+}

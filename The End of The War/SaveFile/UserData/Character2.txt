@@ -1,0 +1,18 @@
+{
+    "character_name": "궁수",
+    "tag": "Ally",
+    "character_class": 3,
+    "faceimage": 2,
+    "skillimage": 1,
+    "atktype": 1,
+    "atkpower": 47.0,
+    "atkspeed": 0.7599999904632568,
+    "defpower": 3.0,
+    "healthpoint": 650.0,
+    "skillname": "Rage",
+    "level": 2,
+    "exp": 15,
+    "prefabname": "Character2",
+    "audioclip": "Character2AudioList.txt",
+    "eqipment": "Character2EquipList.txt"
+}

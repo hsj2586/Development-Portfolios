@@ -1,0 +1,8 @@
+{
+    "stage_idx": 2,
+    "stage_grade": 1,
+    "stage_texture": "Stage2",
+    "stage_reward": "RewardList2",
+    "stage_enemylist": "EnemyList2",
+    "stage_exp": 15
+}

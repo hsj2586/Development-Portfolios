@@ -1,0 +1,18 @@
+{
+    "character_name": "마법사",
+    "tag": "Ally",
+    "character_class": 4,
+    "faceimage": 3,
+    "skillimage": 3,
+    "atktype": 1,
+    "atkpower": 91.0,
+    "atkspeed": 0.21000000834465028,
+    "defpower": 2.0,
+    "healthpoint": 575.0,
+    "skillname": "Storm",
+    "level": 2,
+    "exp": 15,
+    "prefabname": "Character3",
+    "audioclip": "Character3AudioList.txt",
+    "eqipment": "Character3EquipList.txt"
+}

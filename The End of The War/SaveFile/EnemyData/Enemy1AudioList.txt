@@ -1,0 +1,6 @@
+{
+    "items": [
+        "enemy_atk",
+        "enemy_death"
+    ]
+}

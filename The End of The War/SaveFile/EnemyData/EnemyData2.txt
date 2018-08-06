@@ -1,0 +1,18 @@
+{
+    "character_name": "트롤",
+    "tag": "Enemy",
+    "character_class": 6,
+    "faceimage": 5,
+    "skillimage": 0,
+    "atktype": 0,
+    "atkpower": 300.0,
+    "atkspeed": 0.4000000059604645,
+    "defpower": 5.0,
+    "healthpoint": 650.0,
+    "skillname": "",
+    "level": 1,
+    "exp": 0,
+    "prefabname": "Enemy2",
+    "audioclip": "Enemy2AudioList.txt",
+    "eqipment": ""
+}

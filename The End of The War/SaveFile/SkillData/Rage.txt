@@ -1,0 +1,6 @@
+{
+    "skill_name": "Rage",
+    "skill_manual": "분노해 일시적으로 공격속도가 2배 증가합니다.",
+    "skill_cooltime": 8.0,
+    "skill_image": 2
+}

@@ -1,0 +1,18 @@
+{
+    "character_name": "좀비",
+    "tag": "Enemy",
+    "character_class": 6,
+    "faceimage": 4,
+    "skillimage": 0,
+    "atktype": 0,
+    "atkpower": 200.0,
+    "atkspeed": 0.30000001192092898,
+    "defpower": 3.0,
+    "healthpoint": 450.0,
+    "skillname": "",
+    "level": 1,
+    "exp": 0,
+    "prefabname": "Enemy1",
+    "audioclip": "Enemy1AudioList.txt",
+    "eqipment": ""
+}

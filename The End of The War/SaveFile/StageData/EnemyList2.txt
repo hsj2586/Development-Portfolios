@@ -1,0 +1,7 @@
+{
+    "items": [
+        "EnemyData1",
+        "EnemyData2",
+        "EnemyData2"
+    ]
+}

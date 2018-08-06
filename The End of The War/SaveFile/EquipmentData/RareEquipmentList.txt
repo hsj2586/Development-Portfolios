@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "equipmentname": "워리어소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 1,
+            "atkpower": 50.0,
+            "defpower": 0.0,
+            "atkspeed": 0.10000000149011612,
+            "cost": 10000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "티타늄액스",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 1,
+            "atkpower": 70.0,
+            "defpower": 0.0,
+            "atkspeed": -0.10000000149011612,
+            "cost": 12000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "매직스태프",
+            "maintype": 1,
+            "subtype": 6,
+            "grade": 1,
+            "atkpower": 45.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 5000,
+            "isMounted": false,
+            "whoMounted": ""
+        }
+    ]
+}

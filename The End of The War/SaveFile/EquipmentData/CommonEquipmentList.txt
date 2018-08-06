@@ -1,0 +1,160 @@
+{
+    "items": [
+        {
+            "equipmentname": "롱소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 0,
+            "atkpower": 10.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 100,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "브로드소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 0,
+            "atkpower": 20.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 1000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "자이언트소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 0,
+            "atkpower": 35.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 5000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "롱보우",
+            "maintype": 1,
+            "subtype": 5,
+            "grade": 0,
+            "atkpower": 20.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 1500,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "우든스태프",
+            "maintype": 1,
+            "subtype": 6,
+            "grade": 0,
+            "atkpower": 25.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 1500,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "강철투구",
+            "maintype": 0,
+            "subtype": 0,
+            "grade": 0,
+            "atkpower": 0.0,
+            "defpower": 20.0,
+            "atkspeed": 0.0,
+            "cost": 1000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "가죽갑옷",
+            "maintype": 2,
+            "subtype": 7,
+            "grade": 0,
+            "atkpower": 0.0,
+            "defpower": 30.0,
+            "atkspeed": 0.0,
+            "cost": 2000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "천망토",
+            "maintype": 2,
+            "subtype": 8,
+            "grade": 0,
+            "atkpower": 0.0,
+            "defpower": 15.0,
+            "atkspeed": 0.0,
+            "cost": 1500,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "숏소드",
+            "maintype": 1,
+            "subtype": 3,
+            "grade": 0,
+            "atkpower": 0.0,
+            "defpower": 15.0,
+            "atkspeed": 0.10000000149011612,
+            "cost": 1000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "핸드액스",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 0,
+            "atkpower": 15.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 200,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "자이언트액스",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 0,
+            "atkpower": 30.0,
+            "defpower": 0.0,
+            "atkspeed": -0.10000000149011612,
+            "cost": 1500,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "워액스",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 0,
+            "atkpower": 45.0,
+            "defpower": 0.0,
+            "atkspeed": -0.10000000149011612,
+            "cost": 6000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "사파이어목걸이",
+            "maintype": 3,
+            "subtype": 9,
+            "grade": 0,
+            "atkpower": 10.0,
+            "defpower": 0.0,
+            "atkspeed": 0.10000000149011612,
+            "cost": 2000,
+            "isMounted": false,
+            "whoMounted": ""
+        }
+    ]
+}

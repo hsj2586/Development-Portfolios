@@ -1,0 +1,7 @@
+{
+    "username": "성준이",
+    "level": 1,
+    "gold": 9000,
+    "numofCharacter": 3,
+    "current_stage": 2
+}

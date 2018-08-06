@@ -1,0 +1,7 @@
+{
+    "items": [
+        "energy_atk",
+        "male_death",
+        "storm"
+    ]
+}

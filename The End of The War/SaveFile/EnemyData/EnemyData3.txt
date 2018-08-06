@@ -1,0 +1,18 @@
+{
+    "character_name": "자이언트 트롤",
+    "tag": "Enemy",
+    "character_class": 6,
+    "faceimage": 6,
+    "skillimage": 0,
+    "atktype": 0,
+    "atkpower": 600.0,
+    "atkspeed": 0.699999988079071,
+    "defpower": 12.0,
+    "healthpoint": 1350.0,
+    "skillname": "",
+    "level": 1,
+    "exp": 0,
+    "prefabname": "Enemy3",
+    "audioclip": "Enemy2AudioList.txt",
+    "eqipment": ""
+}

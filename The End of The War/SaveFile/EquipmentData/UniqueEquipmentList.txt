@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "equipmentname": "그레이트소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 2,
+            "atkpower": 80.0,
+            "defpower": 0.0,
+            "atkspeed": 0.15000000596046449,
+            "cost": 30000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "그레이트소드",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 2,
+            "atkpower": 80.0,
+            "defpower": 0.0,
+            "atkspeed": 0.15000000596046449,
+            "cost": 30000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "그레이트액스",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 2,
+            "atkpower": 110.0,
+            "defpower": 0.0,
+            "atkspeed": -0.15000000596046449,
+            "cost": 36000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "파워스태프",
+            "maintype": 1,
+            "subtype": 6,
+            "grade": 2,
+            "atkpower": 70.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 11000,
+            "isMounted": false,
+            "whoMounted": ""
+        }
+    ]
+}

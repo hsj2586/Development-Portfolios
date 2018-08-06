@@ -1,0 +1,6 @@
+{
+    "items": [
+        "bow_atk",
+        "female_death"
+    ]
+}

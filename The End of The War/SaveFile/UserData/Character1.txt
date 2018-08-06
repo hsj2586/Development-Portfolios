@@ -1,0 +1,18 @@
+{
+    "character_name": "기사",
+    "tag": "Ally",
+    "character_class": 1,
+    "faceimage": 1,
+    "skillimage": 2,
+    "atktype": 0,
+    "atkpower": 85.0,
+    "atkspeed": 0.31000009179115298,
+    "defpower": 5.0,
+    "healthpoint": 860.0,
+    "skillname": "Crash",
+    "level": 2,
+    "exp": 15,
+    "prefabname": "Character1",
+    "audioclip": "Character1AudioList.txt",
+    "eqipment": "Character1EquipList.txt"
+}

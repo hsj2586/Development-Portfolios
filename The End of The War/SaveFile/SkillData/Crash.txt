@@ -1,0 +1,6 @@
+{
+    "skill_name": "Crash",
+    "skill_manual": "검으로 빠르게 3회 공격하며, 매 회 기본공격과 동일한 피해를 줍니다.",
+    "skill_cooltime": 5.0,
+    "skill_image": 1
+}

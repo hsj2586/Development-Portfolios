@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "equipmentname": "엑스칼리버",
+            "maintype": 1,
+            "subtype": 2,
+            "grade": 3,
+            "atkpower": 120.0,
+            "defpower": 0.0,
+            "atkspeed": 0.20000000298023225,
+            "cost": 100000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "익스큐셔너",
+            "maintype": 1,
+            "subtype": 4,
+            "grade": 3,
+            "atkpower": 165.0,
+            "defpower": 0.0,
+            "atkspeed": -0.20000000298023225,
+            "cost": 120000,
+            "isMounted": false,
+            "whoMounted": ""
+        },
+        {
+            "equipmentname": "엘레멘탈스태프",
+            "maintype": 1,
+            "subtype": 6,
+            "grade": 3,
+            "atkpower": 100.0,
+            "defpower": 0.0,
+            "atkspeed": 0.0,
+            "cost": 32000,
+            "isMounted": false,
+            "whoMounted": ""
+        }
+    ]
+}
